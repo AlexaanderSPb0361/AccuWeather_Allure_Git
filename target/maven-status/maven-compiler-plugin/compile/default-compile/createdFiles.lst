@@ -1,0 +1,6 @@
+com\accuweather\WeatherResponse$Metric.class
+com\accuweather\WeatherResponse$Temperature.class
+com\accuweather\ApiClient.class
+com\accuweather\WeatherResponse.class
+com\accuweather\BaseTest.class
+com\accuweather\BeforeAll.class

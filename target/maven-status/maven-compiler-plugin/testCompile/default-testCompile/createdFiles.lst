@@ -1,0 +1,4 @@
+com\accuweather\ForecastTest.class
+com\accuweather\CurrentConditionsTest.class
+com\accuweather\GetLocationTest.class
+com\accuweather\GetWeatherTest.class

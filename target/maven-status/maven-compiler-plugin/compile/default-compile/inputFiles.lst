@@ -1,3 +1,4 @@
-D:\_GEEKBRAINS\_Vvedenie-v-automatizaciyu-testirovaniya\dz3\_ptoject\AccuWeatherTests\src\main\java\com\accuweather\BaseTest.java
-D:\_GEEKBRAINS\_Vvedenie-v-automatizaciyu-testirovaniya\dz3\_ptoject\AccuWeatherTests\src\main\java\com\accuweather\WeatherResponse.java
-D:\_GEEKBRAINS\_Vvedenie-v-automatizaciyu-testirovaniya\dz3\_ptoject\AccuWeatherTests\src\main\java\com\accuweather\ApiClient.java
+D:\_GEEKBRAINS\_VAUT\dz6\AccuWeather_Allure\src\main\java\com\accuweather\BaseTest.java
+D:\_GEEKBRAINS\_VAUT\dz6\AccuWeather_Allure\src\main\java\com\accuweather\BeforeAll.java
+D:\_GEEKBRAINS\_VAUT\dz6\AccuWeather_Allure\src\main\java\com\accuweather\WeatherResponse.java
+D:\_GEEKBRAINS\_VAUT\dz6\AccuWeather_Allure\src\main\java\com\accuweather\ApiClient.java
